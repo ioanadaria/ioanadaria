@@ -49,7 +49,6 @@ Now I'm transitioning to **QA Automation Engineering**, building frameworks and 
 **How I worked:**
 - Executed functional, regression, and performance testing
 - Documented defects in Jira with reproduction steps, evidence, and priority assessment
-- Validated API-driven features using Postman (data flow between client/server)
 - Collaborated in Agile sprints (daily standups, sprint planning, retros)
 
 **Why it matters for automation:**
